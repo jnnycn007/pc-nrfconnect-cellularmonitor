@@ -13,7 +13,7 @@ const DocumentationSections = [
     <DocumentationSection
         key="infocenter"
         linkLabel="Go to TechDocs"
-        link="https://docs.nordicsemi.com/bundle/nrf-connect-cellularmonitor/page/index.html"
+        link="https://docs.nordicsemi.com/bundle/swtools_docs/page/app/pc-nrfconnect-cellularmonitor/index.html"
     >
         Visit our Technical Documentation for more documentation about using the
         app.
@@ -21,7 +21,7 @@ const DocumentationSections = [
     <DocumentationSection
         key="credentialManager"
         linkLabel="Certificate Manager"
-        link="https://docs.nordicsemi.com/bundle/nrf-connect-cellularmonitor/page/managing_credentials.html"
+        link="https://docs.nordicsemi.com/bundle/swtools_docs/page/app/pc-nrfconnect-cellularmonitor/managing_credentials.html"
     >
         Visit our Technical Documentation for more documentation about managing
         credentials.

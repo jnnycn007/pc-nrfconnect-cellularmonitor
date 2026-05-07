@@ -108,7 +108,7 @@ const StartupDialog = () => {
                     <a
                         target="_blank"
                         rel="noreferrer"
-                        href="https://docs.nordicsemi.com/bundle/nrf-connect-cellularmonitor/page/overview.html#program-device"
+                        href="https://docs.nordicsemi.com/bundle/swtools_docs/page/app/pc-nrfconnect-cellularmonitor/overview.html#program-device"
                     >
                         program a sample
                     </a>{' '}
@@ -120,7 +120,7 @@ const StartupDialog = () => {
                     <a
                         target="_blank"
                         rel="noreferrer"
-                        href="https://docs.nordicsemi.com/bundle/nrf-connect-cellularmonitor/page/requirements.html"
+                        href="https://docs.nordicsemi.com/bundle/swtools_docs/page/app/pc-nrfconnect-cellularmonitor/index.html#minimum-requirements-and-limitations"
                     >
                         Cellular Monitor hardware and software requirements
                     </a>
